@@ -86,26 +86,26 @@ section{
     height:500px;
 }
 .bg1{
-    background-image: url(biking.jpg);
+    background-image: url(flexbox/biking.jpg);
 
 }
 .bg2{
-    background-image: url(para.jpg);
+    background-image: url(flexbox/para.jpg);
 
 }
 .bg3{
-    background-image: url(surffing.jpg);
+    background-image: url(flexbox/surffing.jpg);
 
 }
 .bg4{
-    background-image: url(swimming.jpg);
+    background-image: url(flexbox/swimming.jpg);
 
 }
 .bg5{
-    background-image: url(horse.jpg);
+    background-image: url(flexbox/horse.jpg);
 
 }
 .bg6{
-    background-image: url(climb.jpg);
+    background-image: url(flexbox/climb.jpg);
 
 }
